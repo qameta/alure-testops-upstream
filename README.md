@@ -1,2 +1,2 @@
-# alure-testops-upstream
-Upstream tasks for Allure TestOps
+# Allure TestOps upstream tasks
+
